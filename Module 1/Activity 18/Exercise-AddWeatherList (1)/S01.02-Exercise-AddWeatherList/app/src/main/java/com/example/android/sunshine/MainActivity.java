@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_forecast);
         myWeatherView = (TextView) findViewById(R.id.tv_weather_data);
 
-        String[] weatherData = ["sunny","cloudy","foggy","rainy"];
+        String[] weatherData = {"sunny","cloudy","foggy","rainy"};
 
         for(int i = 0;i<weatherData.length;i++){
             myWeatherView.append(weatherData[i]+"\n\n\n");
