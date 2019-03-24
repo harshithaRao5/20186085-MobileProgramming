@@ -12,6 +12,7 @@
     <list default="true" id="c7d4cf5b-a1e0-448c-9d71-cd3007c947f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../../Module 1/ENB - Mobile Programming.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 1/ENB - Mobile Programming.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Module 1/~$B - Mobile Programming.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +31,10 @@
     <session id="1323233581">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,12 +64,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/CartActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="99" column="69" lean-forward="true" selection-start-line="99" selection-start-column="69" selection-end-line="99" selection-end-column="69" />
+            <state relative-caret-position="1258">
+              <caret line="99" column="69" selection-start-line="99" selection-start-column="69" selection-end-line="99" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -74,12 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/productDetails.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="848">
+            <state relative-caret-position="1479">
               <caret line="110" selection-start-line="110" selection-end-line="110" />
-              <folding>
-                <element signature="e#2907#3069#0" expanded="true" />
-                <element signature="e#3068#3069#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +87,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_cart.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+            <state relative-caret-position="187">
+              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -98,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_product_details2.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
+            <state relative-caret-position="136">
               <caret line="8" column="14" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
@@ -107,16 +106,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/res/layout/cart_layout.xml">
           <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/ProductInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="97" column="51" lean-forward="true" selection-start-line="97" selection-start-column="51" selection-end-line="97" selection-end-column="51" />
+            <state relative-caret-position="1173">
+              <caret line="97" column="51" selection-start-line="97" selection-start-column="51" selection-end-line="97" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,9 +142,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1383" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -155,7 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -196,14 +194,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="521032c1eaa59491" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../new todo project/new todo project" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -309,8 +307,8 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="6" weight="0.3328551" />
-      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.3319149" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" />
@@ -331,53 +329,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/ProductInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/CartActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="97" column="51" lean-forward="true" selection-start-line="97" selection-start-column="51" selection-end-line="97" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1258">
+          <caret line="99" column="69" selection-start-line="99" selection-start-column="69" selection-end-line="99" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/productDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_product_details2.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
+        <state relative-caret-position="136">
           <caret line="8" column="14" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/productDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="110" selection-start-line="110" selection-end-line="110" />
-          <folding>
-            <element signature="e#2907#3069#0" expanded="true" />
-            <element signature="e#3068#3069#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/CartActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="99" column="69" lean-forward="true" selection-start-line="99" selection-start-column="69" selection-end-line="99" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/cart_layout.xml">
       <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/shoppingcart/ProductInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510" />
+        <state relative-caret-position="1173">
+          <caret line="97" column="51" selection-start-line="97" selection-start-column="51" selection-end-line="97" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/res/layout/activity_cart.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
         </state>
       </provider>
     </entry>
